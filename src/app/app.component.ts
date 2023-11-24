@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Angular_Git_test';
+  title = 'Angular_Git_test'; // try to add something
 }
